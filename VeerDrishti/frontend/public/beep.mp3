@@ -1,0 +1,9 @@
+# Placeholder for beep.mp3
+# This file should contain a short beep sound (1-2 seconds) for alert notifications
+# You can replace this with an actual audio file or generate one using:
+# - Online tone generators
+# - Text-to-speech with "beep" 
+# - Any short alert sound file
+
+# For demo purposes, the application will work without this file
+# but users won't hear audio alerts for HIGH severity notifications
